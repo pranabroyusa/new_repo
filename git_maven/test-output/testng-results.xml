@@ -2,12 +2,12 @@
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="19049" started-at="2016-02-21T17:27:23Z" finished-at="2016-02-21T17:27:42Z">
+  <suite name="Default suite" duration-ms="8857" started-at="2016-02-21T17:38:25Z" finished-at="2016-02-21T17:38:34Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="19049" started-at="2016-02-21T17:27:23Z" finished-at="2016-02-21T17:27:42Z">
+    <test name="Default test" duration-ms="8857" started-at="2016-02-21T17:38:25Z" finished-at="2016-02-21T17:38:34Z">
       <class name="git_maven.Open_BrowserTest">
-        <test-method status="PASS" signature="openBrowser()[pri:0, instance:git_maven.Open_BrowserTest@1fbc7afb]" name="openBrowser" duration-ms="19013" started-at="2016-02-21T09:27:23Z" finished-at="2016-02-21T09:27:42Z">
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:git_maven.Open_BrowserTest@1fbc7afb]" name="openBrowser" duration-ms="8839" started-at="2016-02-21T09:38:25Z" finished-at="2016-02-21T09:38:34Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- openBrowser -->

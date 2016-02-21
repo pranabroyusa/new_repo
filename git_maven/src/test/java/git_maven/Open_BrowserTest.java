@@ -12,7 +12,7 @@ public class Open_BrowserTest {
 	{
 		driver =new FirefoxDriver();
 		driver.get("http://www.bbc.com");
-		System.out.println("Hello Pranab");
+		System.out.println("Hello Pranab and Manisha");
 	}
 
 }
