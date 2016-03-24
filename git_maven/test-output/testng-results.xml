@@ -1,17 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" total="1" passed="1">
+<testng-results skipped="0" failed="0" total="2" passed="2">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="8857" started-at="2016-02-21T17:38:25Z" finished-at="2016-02-21T17:38:34Z">
+  <suite name="Suite" duration-ms="48" started-at="2016-02-23T06:48:26Z" finished-at="2016-02-23T06:48:26Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="8857" started-at="2016-02-21T17:38:25Z" finished-at="2016-02-21T17:38:34Z">
+    <test name="Test" duration-ms="48" started-at="2016-02-23T06:48:26Z" finished-at="2016-02-23T06:48:26Z">
+      <class name="git_maven.Close_Browser">
+        <test-method status="PASS" signature="close()[pri:0, instance:git_maven.Close_Browser@2f7a2457]" name="close" duration-ms="1" started-at="2016-02-22T22:48:26Z" finished-at="2016-02-22T22:48:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- git_maven.Close_Browser -->
       <class name="git_maven.Open_BrowserTest">
-        <test-method status="PASS" signature="openBrowser()[pri:0, instance:git_maven.Open_BrowserTest@1fbc7afb]" name="openBrowser" duration-ms="8839" started-at="2016-02-21T09:38:25Z" finished-at="2016-02-21T09:38:34Z">
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:git_maven.Open_BrowserTest@35f983a6]" name="openBrowser" duration-ms="15" started-at="2016-02-22T22:48:26Z" finished-at="2016-02-22T22:48:26Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- openBrowser -->
       </class> <!-- git_maven.Open_BrowserTest -->
-    </test> <!-- Default test -->
-  </suite> <!-- Default suite -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
 </testng-results>

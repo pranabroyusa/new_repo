@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
-<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+<suite name="Suite" parallel="false">
   <test name="Test">
     <classes>
       <class name="git_maven.Open_BrowserTest"/>
       <class name="git_maven.Close_Browser"/>
     </classes>
   </test> <!-- Test -->
-</suite> <!-- Failed suite [Suite] -->
+</suite> <!-- Suite -->
