@@ -10,7 +10,13 @@ public class Open_BrowserTest {
 	@Test
 	public void openBrowser()
 	{
+
+		
+		System.out.println("--------");
+		System.out.println("********");
+
 		System.out.println("master");
+
 		//driver =new FirefoxDriver();
 		//driver.get("http://www.bbc.com");
 		System.out.println("Hello Pranab and Manisha");
