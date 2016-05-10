@@ -11,10 +11,6 @@ public class Open_BrowserTest {
 	public void openBrowser()
 	{
 
-		
-		System.out.println("--------");
-		System.out.println("********");
-
 		System.out.println("master");
 
 		//driver =new FirefoxDriver();
