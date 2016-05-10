@@ -11,7 +11,7 @@ public class Open_BrowserTest {
 	public void openBrowser()
 	{
 
-		System.out.println("---master");
+		System.out.println("------master");
 
 		//driver =new FirefoxDriver();
 		//driver.get("http://www.bbc.com");
