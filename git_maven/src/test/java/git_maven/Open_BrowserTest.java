@@ -14,6 +14,9 @@ public class Open_BrowserTest {
 		
 		System.out.println("making new features 2");
 
+		System.out.println("------master");
+
+
 		//driver =new FirefoxDriver();
 		//driver.get("http://www.bbc.com");
 		System.out.println("Hello Pranab and Manisha");
